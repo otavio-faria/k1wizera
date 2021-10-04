@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k1wizera
 - 👀 I’m interested in C#, .Net, SQLServer, Javascript, DevOps.
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: oaugustofaria@gmail.com 
 - #️⃣ https://www.linkedin.com/in/otafaria/
 
