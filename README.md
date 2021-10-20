@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Otávio Faria
-- 👀 I’m interested in C#, .Net, SQLServer, Javascript, DevOps.
+- 👀 I’m interested in C#, .Net, SQLServer, Javascript, Angular and DevOps.
 - 🌱 I’m currently learning C# and .NET Core
 
 ##
